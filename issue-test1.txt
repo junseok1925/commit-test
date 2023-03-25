@@ -1,0 +1,3 @@
+issue와 연관된 commit만들기 
+
+commit 메세지를 작성할 때 관련된 issue가 무엇인지 issue번호를 포함해 알려줄 수 있다.
